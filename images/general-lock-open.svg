@@ -15,12 +15,12 @@
   svg { fill: transparent; }
   #lock-border { fill: none; stroke: #9f8640; stroke-width: 12; stroke-linejoin: round; }
   #lock-body { fill: url(#lockbody); stroke: #fff8af; stroke-width: 12; }
-  path.shackle { fill: #8fafb8; stroke-width: 4; stroke: #4f6c7a; }
+  #shackle { fill: #8fafb8; stroke-width: 4; stroke: #4f6c7a; }
   #key-hole { fill: #9f8640; stroke-width: 1; stroke: #9f8640; }
   #beads { fill: none; stroke-width: 8; stroke: #9f8640; stroke-linecap: round; }
   ]]>
  </style>
- <path class="shackle" d="M80,132 h-24 v-52 a 76 76, 0, 0, 1, 152,0 v24 h-24 v-24 a 52 52 
+ <path id="shackle" d="M80,132 h-24 v-52 a 76 76, 0, 0, 1, 152,0 v24 h-24 v-24 a 52 52 
 , 0, 0, 0, -104,0 z" />
  <rect id="lock-body" x="46" y="144" width="172" height="105" />
  <rect id="lock-border" x="38" y="136" width="188" height="120" />
