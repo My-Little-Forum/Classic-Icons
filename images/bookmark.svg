@@ -8,7 +8,7 @@
   </linearGradient>
  </defs>
  <style type="text/css"><![CDATA[
-  svg { border: 1px solid #668; fill: transparent; }
+  svg { fill: transparent; }
   #bookmark { fill: url(#plate); stroke: #739ac3; stroke-width: 12px; stroke-linejoin: round; }
   ]]></style>
  <g>

@@ -52,7 +52,7 @@
  </defs>
  <style type="text/css">
   <![CDATA[
-  svg { border: 1px solid #000; fill: transparent; }
+  svg { fill: transparent; }
   #torso { fill: url(#shirt); stroke: url(#shirt-contour); stroke-width: 12; stroke-linejoin: round; }
   #hand-left { fill: url(#hand-l); stroke: none; stroke-width: 1; }
   #hand-right { fill: url(#hand-r); stroke: none; stroke-width: 1; }
