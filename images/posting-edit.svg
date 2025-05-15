@@ -14,13 +14,13 @@
  </defs>
  <style type="text/css"><![CDATA[
   svg { fill: transparent; }
-  #lines { stroke: #404040; stroke-width: 24; fill: none; stroke-linecap: round; }
+  #lines { stroke: #808080; stroke-width: 22; fill: none; stroke-linecap: round; }
   #contour { fill: none; stroke: #9f8640; stroke-width: 8; stroke-linejoin: round; stroke-linecap: round; }
   #pen { fill: url(#shaft); stroke: none; }
   #cap { fill: url(#shaft); stroke: none; }
   #tip { fill: url(#tipping); stroke: none; }
   ]]></style>
- <g>
+ <g transform="scale(0.75)">
   <path id="lines" d="M 16,28 h 232 m -232,52 h 232 m -232,52 h 232 m -232,52 h 232 m -232,52 h 232" />
  </g>
  <g id="pencil" transform="translate(68.5, 78.5) scale(0.825) rotate(45, 132, 132)">
