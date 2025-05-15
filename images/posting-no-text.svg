@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264 264" height="264" width="264">
  <style type="text/css"><![CDATA[
   svg { fill: transparent; }
-  #lines { stroke: #404040; stroke-width: 24; fill: none; stroke-linecap: round; }
+  #lines { stroke: #808080; stroke-width: 22; fill: none; stroke-linecap: round; }
   #cross { stroke-width: 38; stroke: #f80800; stroke-linecap: round; }
   ]]></style>
  <g>
