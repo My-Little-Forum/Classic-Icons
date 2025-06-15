@@ -3,7 +3,7 @@
  <defs>
   <linearGradient id="plate" x1="25%" y1="0%" x2="75%" y2="100%">
    <stop offset="0%" stop-color="#fbfbff" />
-   <stop offset="100%" stop-color="#ebebf4" />
+   <stop offset="100%" stop-color="#dadcf1" />
   </linearGradient>
  </defs>
  <style type="text/css"><![CDATA[

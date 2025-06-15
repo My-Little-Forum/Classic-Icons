@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264 264" height="264" width="264">
  <defs>
-  <linearGradient id="plate" x1="25%" y1="0%" x2="75%" y2="100%">
+  <linearGradient id="plate" x1="0%" y1="25%" x2="100%" y2="75%">
    <stop offset="0%" stop-color="#fbfbff" />
-   <stop offset="100%" stop-color="#ebebf4" />
+   <stop offset="100%" stop-color="#dadcf1" />
   </linearGradient>
  </defs>
  <style type="text/css"><![CDATA[
