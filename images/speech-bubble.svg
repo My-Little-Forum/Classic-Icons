@@ -6,10 +6,12 @@
    <stop offset="50%" stop-color="#d2e2e8" />
    <stop offset="100%" stop-color="#b2d2d8" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   #contour { fill: url(#plate); stroke: #739ac3; stroke-width: 16; stroke-linejoin: round; }
+   ]]>
+  </style>
  </defs>
- <style type="text/css"><![CDATA[
-  svg { fill: transparent; }
-  #contour { fill: url(#plate); stroke: #739ac3; stroke-width: 16; stroke-linejoin: round; }
-  ]]></style>
  <path id="contour" d="M 70,254 v-84 h-10 a 50 50, 0, 0, 1, -50,-50 v-60 a 50 50, 0, 0, 1, 50,-50 h144 a 50 50, 0, 0, 1, 50,50 v 60 a 50 50, 0, 0, 1, -50,50 h -73 z" />
 </svg>

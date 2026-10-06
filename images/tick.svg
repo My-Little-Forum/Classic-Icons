@@ -9,13 +9,13 @@
    <stop offset="0%" stop-color="#a5d49c" />
    <stop offset="100%" stop-color="#79bd73" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   #tick { fill: url(#plate); stroke: url(#frame); stroke-width: 12; stroke-linejoin: round; }
+   ]]>
+  </style>
  </defs>
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  #tick { fill: url(#plate); stroke: url(#frame); stroke-width: 12; stroke-linejoin: round; }
-  ]]>
- </style>
  <g>
   <path transform="translate(0, -28) rotate(45, 132, 132)" id="tick" d="M 197,25 197,239 87,239 87,189 147,189 147,25 z" />
  </g>

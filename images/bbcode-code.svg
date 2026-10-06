@@ -1,11 +1,13 @@
 <?xml version="1.0" standalone="yes"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264 264" height="264" width="264">
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  #codesign { fill: #808080; stroke: #808080; stroke-width: 12; stroke-linejoin: round; }
-  ]]>
- </style>
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   #codesign { fill: #808080; stroke: #808080; stroke-width: 12; stroke-linejoin: round; }
+   ]]>
+  </style>
+ </defs>
  <symbol id="bracket" viewbox="0 0 110 110">
   <path d="M22.968,6  a 16.968 16.968, 0, 0, 0, -16.968,16.968 v69.032 a 12 12, 0, 0, 0, 24,0 v-62 h62 a 12 12, 0, 0, 0, 0,-24 z" />
  </symbol>

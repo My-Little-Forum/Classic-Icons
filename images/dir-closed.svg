@@ -6,15 +6,15 @@
    <stop offset="30.5%" stop-color="#e8e8b0" />
    <stop offset="100%" stop-color="#c4c240" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   #contour { stroke-width: 12; stroke: #cfc822; fill: none; }
+   #spot { stroke-width: 16; stroke: #fffef0; fill: none; stroke-linejoin: round; stroke-linecap: round; }
+   .folder{ stroke: none; fill: url(#shield); }
+   ]]>
+  </style>
  </defs>
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  #contour { stroke-width: 12; stroke: #cfc822; fill: none; }
-  #spot { stroke-width: 16; stroke: #fffef0; fill: none; stroke-linejoin: round; stroke-linecap: round; }
-  .folder{ stroke: none; fill: url(#shield); }
-  ]]>
- </style>
  <g>
   <path id="contour" d="M8,40 a14 14, 0, 0, 1, 14,-14 h88 a14 14, 0, 0, 1, 14,14
   v2 a16 16, 0, 0, 0, 16,16 h102 a14 14, 0, 0, 1, 14,14 v150

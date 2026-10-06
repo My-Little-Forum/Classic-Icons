@@ -16,18 +16,18 @@
    <stop offset="55%" stop-color="#9f8640" />
    <stop offset="100%" stop-color="#9f8640" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   .sheet { stroke-width: 8; stroke: #b8bcc8; fill: url(#plate); stroke-linejoin: round; }
+   .highlight { stroke-width: 12; stroke: #fafbff; fill: none; stroke-linejoin: round; }
+   #contour { fill: none; stroke: #9f8640; stroke-width: 8; stroke-linejoin: round; stroke-linecap: round; }
+   #pen { fill: url(#shaft); stroke: none; }
+   #cap { fill: url(#shaft); stroke: none; }
+   #tip { fill: url(#tipping); stroke: none; }
+   ]]>
+  </style>
  </defs>
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  .sheet { stroke-width: 8; stroke: #b8bcc8; fill: url(#plate); stroke-linejoin: round; }
-  .highlight { stroke-width: 12; stroke: #fafbff; fill: none; stroke-linejoin: round; }
-  #contour { fill: none; stroke: #9f8640; stroke-width: 8; stroke-linejoin: round; stroke-linecap: round; }
-  #pen { fill: url(#shaft); stroke: none; }
-  #cap { fill: url(#shaft); stroke: none; }
-  #tip { fill: url(#tipping); stroke: none; }
-  ]]>
- </style>
  <symbol id="sheet" viewBox="0 0 176 218">
   <path class="sheet" d="M 4,4 v 206 h 136 v -164 l -42,-42 z" />
   <path class="highlight" d="M 14,14 v 186 h116 v -146 h -40 v -40 z" />

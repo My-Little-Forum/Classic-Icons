@@ -20,18 +20,18 @@
    <stop offset="0%" stop-color="#f8685a" />
    <stop offset="100%" stop-color="#cf2c00" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   circle.connector { fill: #739ac3; stroke: none;}
+   path.connector { fill: none; stroke: #739ac3; stroke-width: 12; stroke-linejoin: round; stroke-linecap: round; }
+   #category rect { fill: url(#plate); stroke: #739ac3; stroke-width: 12; }
+   #shield { fill: url(#head); stroke: #f85450; stroke-width: 12; }
+   #border { fill: none; stroke: #cf2c00; stroke-width: 12; }
+   #sign { fill: #fff; stroke-width: 5; stroke: #fdfdfd; stroke-linejoin: round; }
+   ]]>
+  </style>
  </defs>
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  circle.connector { fill: #739ac3; stroke: none;}
-  path.connector { fill: none; stroke: #739ac3; stroke-width: 12; stroke-linejoin: round; stroke-linecap: round; }
-  #category rect { fill: url(#plate); stroke: #739ac3; stroke-width: 12; }
-  #shield { fill: url(#head); stroke: #f85450; stroke-width: 12; }
-  #border { fill: none; stroke: #cf2c00; stroke-width: 12; }
-  #sign { fill: #fff; stroke-width: 5; stroke: #fdfdfd; stroke-linejoin: round; }
-  ]]>
- </style>
  <symbol id="category" viewBox="0 0 180 80">
   <rect x="8" y="8" width="164" height="48" rx="24" ry="24" />
  </symbol>

@@ -17,15 +17,15 @@
    <stop offset="0%" stop-color="#a5d49c" />
    <stop offset="100%" stop-color="#79bd73" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   .arrow-bottom, .arrow-top { stroke-width: 12; stroke-linejoin: round; }
+   .arrow-bottom { fill: url(#plate-bottom); stroke: url(#frame-bottom); }
+   .arrow-top { fill: url(#plate-top); stroke: url(#frame-top); }
+   ]]>
+  </style>
  </defs>
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  .arrow-bottom, .arrow-top { stroke-width: 12; stroke-linejoin: round; }
-  .arrow-bottom { fill: url(#plate-bottom); stroke: url(#frame-bottom); }
-  .arrow-top { fill: url(#plate-top); stroke: url(#frame-top); }
-  ]]>
- </style>
  <symbol id="arrow" viewBox="0 0 132 264">
   <path d="M 66,22 l60,60 -32,0 0,74 a 32 32, 0, 0, 0, 32,32 v56 a 88 88, 0, 0, 1,-88,-88 v-74 h-32 z" />
  </symbol>

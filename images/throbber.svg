@@ -1,11 +1,13 @@
 <?xml version="1.0" standalone="yes"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264 264" width="264" height="264">
- <style type="text/css">
-  <![CDATA[
-  svg { fill: none; }
-  line { fill: none; stroke-width: 18; stroke-linecap: round; }
-  ]]>
- </style>
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: none; }
+   line { fill: none; stroke-width: 18; stroke-linecap: round; }
+   ]]>
+  </style>
+ </defs>
  <g id="rotor">
   <line x1="132" y1="72" x2="132" y2="10" style="stroke: #3a4454ff;" />
   <line x1="132" y1="72" x2="132" y2="10" transform="rotate(-20, 132, 132)" style="stroke: #3a4252f2;" />

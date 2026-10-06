@@ -6,11 +6,13 @@
    <stop offset="50%" stop-color="#dae4e6" />
    <stop offset="100%" stop-color="#d2d8da" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   #contour { fill: url(#plate); stroke: #789fa4; stroke-width: 16; stroke-linejoin: round; }
+   ]]>
+  </style>
  </defs>
- <style type="text/css"><![CDATA[
-  svg { fill: transparent; }
-  #contour { fill: url(#plate); stroke: #789fa4; stroke-width: 16; stroke-linejoin: round; }
-  ]]></style>
  <g>
   <circle id="contour" cx="132" cy="132" r="112" />
  </g>

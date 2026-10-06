@@ -13,16 +13,16 @@
    <stop offset="82.5%" stop-color="#b08400" />
    <stop offset="100%" stop-color="#904200" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   rect { stroke: none; fill: url(#plate); }
+   g circle { stroke: none; fill: #fff; }
+   path { fill: none; stroke-width: 34.5; stroke: #fff; stroke-linecap: round; }
+   #border { fill: url(#bordershadow); stroke: none; }
+   ]]>
+  </style>
  </defs>
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  rect { stroke: none; fill: url(#plate); }
-  g circle { stroke: none; fill: #fff; }
-  path { fill: none; stroke-width: 34.5; stroke: #fff; stroke-linecap: round; }
-  #border { fill: url(#bordershadow); stroke: none; }
-  ]]>
- </style>
  <g transform="scale(0.9)" transform-origin="center">
   <g>
    <rect x="1" y="1" width="262" height="262" rx="53" ry="53" />

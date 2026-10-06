@@ -1,11 +1,13 @@
 <?xml version="1.0" standalone="yes"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264 264" width="264" height="264">
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  #formula { stroke: #808080; stroke-width: 12; fill: #808080; stroke-linejoin: round; }
-  ]]>
- </style>
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   #formula { stroke: #808080; stroke-width: 12; fill: #808080; stroke-linejoin: round; }
+   ]]>
+  </style>
+ </defs>
  <g id="formula">
   <path d="M10,126 v12 h19.125 l32.875,104 h31.375 l65.625,-208 h95 v-12 h-104 l-62.875,200 -30.125,-96 z" />
   <path transform="skewX(-8)" transform-origin="center" d="M146,130 a 19 10, 0, 0, 1, 18.5,8

@@ -22,22 +22,22 @@
    <stop offset="50%" stop-color="#8f9dab48" />
    <stop offset="100%" stop-color="#8694a26f" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   #bin { fill: url(#plate); stroke: url(#frame); stroke-width: 12; stroke-linejoin: round; }
+   #lid { fill: url(#plate); stroke: url(#frame); stroke-width: 12; }
+   #bulge { stroke: none; fill: url(#bump); }
+   #bead-1, #bead-4 { stroke-width: 10; stroke-linecap: round; }
+   #bead-2, #bead-3 { stroke-width: 11; stroke-linecap: round; }
+   #bead-1 { stroke: #d4e8f4; }
+   #bead-2 { stroke: #bed2dd; }
+   #bead-3 { stroke: #b9c5d3; }
+   #bead-4 { stroke: #a2b6c0; }
+   #glare1 { stroke: none; fill: url(#shadow); stroke-linejoin: round; }
+   ]]>
+  </style>
  </defs>
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  #bin { fill: url(#plate); stroke: url(#frame); stroke-width: 12; stroke-linejoin: round; }
-  #lid { fill: url(#plate); stroke: url(#frame); stroke-width: 12; }
-  #bulge { stroke: none; fill: url(#bump); }
-  #bead-1, #bead-4 { stroke-width: 10; stroke-linecap: round; }
-  #bead-2, #bead-3 { stroke-width: 11; stroke-linecap: round; }
-  #bead-1 { stroke: #d4e8f4; }
-  #bead-2 { stroke: #bed2dd; }
-  #bead-3 { stroke: #b9c5d3; }
-  #bead-4 { stroke: #a2b6c0; }
-  #glare1 { stroke: none; fill: url(#shadow); stroke-linejoin: round; }
-  ]]>
- </style>
  <g>
   <path id="bin" d="M 50,56 l 16,180 a 110 36, 0, 0, 0, 132,0 l 16,-180 a 110 16, 0, 0, 1 -164,0 z" />
   <path id="lid" d="M 50,56 a 110 16, 0, 0, 0 164,0 a 24 24, 0, 0, 0, -16,-24 a 110 36, 0, 0, 0 -132,0 a 24 24, 0, 0, 0, -16,24 z" />

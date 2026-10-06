@@ -9,15 +9,15 @@
    <stop offset="85%" stop-color="#5ecf68" />
    <stop offset="100%" stop-color="#48b060" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   .photo { fill: url(#photo); stroke: none; stroke-width: 1; stroke-linejoin: round; }
+   #film { fill: #283048;  stroke: none; }
+   .note { fill: #d22; stroke: #d22; stroke-width: 3; stroke-linejoin: round; }
+   ]]>
+  </style>
  </defs>
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  .photo { fill: url(#photo); stroke: none; stroke-width: 1; stroke-linejoin: round; }
-  #film { fill: #283048;  stroke: none; }
-  .note { fill: #d22; stroke: #d22; stroke-width: 3; stroke-linejoin: round; }
-  ]]>
- </style>
  <g>
   <path id="film" d="M4,14 h 208 v236 h-208 z
   M14,25 a 3 3, 0, 0, 0, -3,3 v10 a 3 3, 0, 0, 0, 3,3 h14 a 3 3, 0, 0, 0, 3,-3 v-10 a 3 3, 0, 0, 0, -3,-3 z

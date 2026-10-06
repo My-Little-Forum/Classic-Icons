@@ -5,17 +5,17 @@
    <stop offset="0%" stop-color="#40d848" />
    <stop offset="100%" stop-color="#149f20" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   .quarter { stroke-width: 8; fill: none; stroke-linejoin: round; }
+   #f1 { fill: #e00; stroke: #e00; }
+   #f2 { fill: #ee0; stroke: #ee0; }
+   #f3 { fill: #0e0; stroke: #0e0; }
+   #f4 { fill: #00e; stroke: #00e; }
+   ]]>
+  </style>
  </defs>
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  .quarter { stroke-width: 8; fill: none; stroke-linejoin: round; }
-  #f1 { fill: #e00; stroke: #e00; }
-  #f2 { fill: #ee0; stroke: #ee0; }
-  #f3 { fill: #0e0; stroke: #0e0; }
-  #f4 { fill: #00e; stroke: #00e; }
-  ]]>
- </style>
  <g>
   <path id="f1" class="quarter" d="M 122,122 h-114 a 124 124, 0, 0, 1, 114,-114 z" />
   <path id="f2" class="quarter" d="M 142,122 v-114 a 124 124, 0, 0, 1, 114, 114 z" />

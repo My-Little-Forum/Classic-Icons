@@ -16,19 +16,19 @@
    <stop offset="55%" stop-color="#9f8640" />
    <stop offset="100%" stop-color="#9f8640" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   circle.connector { fill: #739ac3; stroke: none;}
+   path.connector { fill: none; stroke: #739ac3; stroke-width: 12; stroke-linejoin: round; stroke-linecap: round; }
+   #category rect { fill: url(#plate); stroke: #739ac3; stroke-width: 12; }
+   #contour { fill: none; stroke: #9f8640; stroke-width: 8; stroke-linejoin: round; stroke-linecap: round; }
+   #pen { fill: url(#shaft); stroke: none; }
+   #cap { fill: url(#shaft); stroke: none; }
+   #tip { fill: url(#tipping); stroke: none; }
+   ]]>
+  </style>
  </defs>
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  circle.connector { fill: #739ac3; stroke: none;}
-  path.connector { fill: none; stroke: #739ac3; stroke-width: 12; stroke-linejoin: round; stroke-linecap: round; }
-  #category rect { fill: url(#plate); stroke: #739ac3; stroke-width: 12; }
-  #contour { fill: none; stroke: #9f8640; stroke-width: 8; stroke-linejoin: round; stroke-linecap: round; }
-  #pen { fill: url(#shaft); stroke: none; }
-  #cap { fill: url(#shaft); stroke: none; }
-  #tip { fill: url(#tipping); stroke: none; }
-  ]]>
- </style>
  <symbol id="category" viewBox="0 0 180 80">
   <rect x="8" y="8" width="164" height="48" rx="24" ry="24" />
  </symbol>

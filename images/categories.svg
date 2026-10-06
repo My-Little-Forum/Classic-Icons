@@ -6,15 +6,15 @@
    <stop offset="15%" stop-color="#e8f0f9" />
    <stop offset="100%" stop-color="#e8f0f9" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   circle.connector { fill: #739ac3; stroke: none;}
+   path.connector { fill: none; stroke: #739ac3; stroke-width: 12; stroke-linejoin: round; stroke-linecap: round; }
+   #category rect { fill: url(#plate); stroke: #739ac3; stroke-width: 12;
+   ]]>
+  </style>
  </defs>
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  circle.connector { fill: #739ac3; stroke: none;}
-  path.connector { fill: none; stroke: #739ac3; stroke-width: 12; stroke-linejoin: round; stroke-linecap: round; }
-  #category rect { fill: url(#plate); stroke: #739ac3; stroke-width: 12;
-  ]]>
- </style>
  <symbol id="category" viewBox="0 0 180 80">
   <rect x="8" y="8" width="164" height="48" rx="24" ry="24" />
  </symbol>

@@ -6,11 +6,13 @@
    <stop offset="50%" stop-color="#d2e2e8" />
    <stop offset="100%" stop-color="#b2d2d8" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   #bookmark { fill: url(#plate); stroke: #739ac3; stroke-width: 12px; stroke-linejoin: round; }
+   ]]>
+  </style>
  </defs>
- <style type="text/css"><![CDATA[
-  svg { fill: transparent; }
-  #bookmark { fill: url(#plate); stroke: #739ac3; stroke-width: 12px; stroke-linejoin: round; }
-  ]]></style>
  <g>
   <path id="bookmark" d="M 68,8 h 128 v 248 l -64,-80 -64,80 z" />
  </g>

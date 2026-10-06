@@ -9,16 +9,16 @@
    <stop offset="0%" stop-color="#496c7d" />
    <stop offset="100%" stop-color="#386070" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   #pupil { fill: url(#lens); stroke: none; }
+   #spot { fill: #f8fafedf; stroke: none; }
+   #lid { fill: none; stroke-width: 8px; stroke: #739ac3; }
+   #eyeball { fill: url(#ball); stroke: none; }
+   ]]>
+  </style>
  </defs>
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  #pupil { fill: url(#lens); stroke: none; }
-  #spot { fill: #f8fafedf; stroke: none; }
-  #lid { fill: none; stroke-width: 8px; stroke: #739ac3; }
-  #eyeball { fill: url(#ball); stroke: none; }
-  ]]>
- </style>
  <g transform="translate(-7.5,-7.5) scale(2.175)">
   <path id="eyeball" d="M 8,64 Q 64,6 120,64 Q 64,122 8,64" />
   <path id="lid" d="M 11,67 8,64 Q 64,6 120,64" stroke-linecap="round" stroke-linejoin="round" />

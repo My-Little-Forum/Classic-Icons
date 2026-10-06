@@ -15,21 +15,21 @@
    <stop offset="55%" stop-color="#9f8640" />
    <stop offset="100%" stop-color="#9f8640" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   #pencil { filter: saturate(1.75); }
+   #face { fill: url(#plate); stroke: #fffeb8; stroke-width: 12; }
+   #contour { fill: none; stroke: #c8c220; stroke-width: 12; }
+   .eyes { fill: #aca002; stroke: none; }
+   #mouth { fill: none; stroke-width: 16px; stroke: #aca002; stroke-linecap: round; }
+   #contour-pen { fill: none; stroke: #9f8640; stroke-width: 8; stroke-linejoin: round; stroke-linecap: round; }
+   #pen { fill: url(#shaft); stroke: none; }
+   #cap { fill: url(#shaft); stroke: none; }
+   #tip { fill: url(#tipping); stroke: none; }
+   ]]>
+  </style>
  </defs>
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  #pencil { filter: saturate(1.75); }
-  #face { fill: url(#plate); stroke: #fffeb8; stroke-width: 12; }
-  #contour { fill: none; stroke: #c8c220; stroke-width: 12; }
-  .eyes { fill: #aca002; stroke: none; }
-  #mouth { fill: none; stroke-width: 16px; stroke: #aca002; stroke-linecap: round; }
-  #contour-pen { fill: none; stroke: #9f8640; stroke-width: 8; stroke-linejoin: round; stroke-linecap: round; }
-  #pen { fill: url(#shaft); stroke: none; }
-  #cap { fill: url(#shaft); stroke: none; }
-  #tip { fill: url(#tipping); stroke: none; }
-  ]]>
- </style>
  <g id="smiley">
   <circle id="contour" cx="132" cy="132" r="122" />
   <circle id="face" cx="132" cy="132" r="110" />

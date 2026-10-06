@@ -5,14 +5,14 @@
    <stop offset="0%" stop-color="#8fafb8" />
    <stop offset="100%" stop-color="#708798" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   .chain-link { fill: url(#head); stroke: none; }
+   .contour { fill: #4f6c7a; stroke: none; stroke-width: 0; }
+   ]]>
+  </style>
  </defs>
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  .chain-link { fill: url(#head); stroke: none; }
-  .contour { fill: #4f6c7a; stroke: none; stroke-width: 0; }
-  ]]>
- </style>
  <g transform="rotate(45) scale(1.3)" transform-origin="center">
   <path class="chain-link" d="M136,120.5 a20 20, 0, 0, 0, -24,19.5 v60 a20 20, 0, 0, 0, 40,0
   v-25.75 a46 46, 0, 0, 0, 18,-11.75 v37.5

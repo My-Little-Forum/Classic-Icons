@@ -8,27 +8,27 @@
    <stop offset="86%" stop-color="#a4c6ed" />
    <stop offset="100%" stop-color="#98bcde" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   .contour { fill: none; stroke-width: 5; stroke: #7894b2; }
+   .frontcontour { fill: none; stroke-width: 3.5; stroke: #9abfe4; stroke-linecap: round; }
+   .front { fill: url(#cyl); stroke: none; }
+   .gradient {
+     width: 100%;
+     height: 100%;
+     background: repeating-conic-gradient(
+       from -90deg,
+       #8f9fbc  0deg,
+       #a2bfdf 25.2deg,
+       #bae8fa 60deg,
+       #a4c6ed 94.8deg,
+       #8f9fbc 180deg
+     );
+   }
+   ]]>
+  </style>
  </defs>
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  .contour { fill: none; stroke-width: 5; stroke: #7894b2; }
-  .frontcontour { fill: none; stroke-width: 3.5; stroke: #9abfe4; stroke-linecap: round; }
-  .front { fill: url(#cyl); stroke: none; }
-  .gradient {
-    width: 100%;
-    height: 100%;
-    background: repeating-conic-gradient(
-      from -90deg,
-      #8f9fbc  0deg,
-      #a2bfdf 25.2deg,
-      #bae8fa 60deg,
-      #a4c6ed 94.8deg,
-      #8f9fbc 180deg
-    );
-  }
-  ]]>
- </style>
  <symbol id="disc">
   <clipPath id="top">
    <path d="M 28 108 A 104 48 180 0 1 236 108 A 104 48 180 0 1 28 108 z" />

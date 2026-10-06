@@ -16,15 +16,17 @@
    <stop offset="55%" stop-color="#9f8640" />
    <stop offset="100%" stop-color="#9f8640" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   #bookmark { fill: url(#plate); stroke: #739ac3; stroke-width: 12px; stroke-linejoin: round; }
+   #contour { fill: none; stroke: #9f8640; stroke-width: 8; stroke-linejoin: round; stroke-linecap: round; }
+   #pen { fill: url(#shaft); stroke: none; }
+   #cap { fill: url(#shaft); stroke: none; }
+   #tip { fill: url(#tipping); stroke: none; }
+   ]]>
+  </style>
  </defs>
- <style type="text/css"><![CDATA[
-  svg { fill: transparent; }
-  #bookmark { fill: url(#plate); stroke: #739ac3; stroke-width: 12px; stroke-linejoin: round; }
-  #contour { fill: none; stroke: #9f8640; stroke-width: 8; stroke-linejoin: round; stroke-linecap: round; }
-  #pen { fill: url(#shaft); stroke: none; }
-  #cap { fill: url(#shaft); stroke: none; }
-  #tip { fill: url(#tipping); stroke: none; }
-  ]]></style>
  <g>
   <path id="bookmark" d="M 68,8 h 128 v 248 l -64,-80 -64,80 z" />
  </g>

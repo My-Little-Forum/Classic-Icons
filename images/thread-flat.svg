@@ -1,12 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264 264" height="264" width="264">
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  #list-dots { stroke: #a3beda; stroke-width: 3; fill: #a3beda; stroke-linejoin: round; }
-  #list-items { stroke: #d4d4d4; stroke-width: 3; fill: #d4d4d4; stroke-linejoin: round; }
-  ]]>
- </style>
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   #list-dots { stroke: #a3beda; stroke-width: 3; fill: #a3beda; stroke-linejoin: round; }
+   #list-items { stroke: #d4d4d4; stroke-width: 3; fill: #d4d4d4; stroke-linejoin: round; }
+   ]]>
+  </style>
+ </defs>
  <g>
   <path id="list-dots" d="M7,8 h 64 v64 h-64 z
   M7,100 h 64 v64 h-64 z

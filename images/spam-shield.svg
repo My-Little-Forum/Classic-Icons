@@ -7,14 +7,14 @@
    <stop offset="57.5%" stop-color="#e8e8b0" />
    <stop offset="100%" stop-color="#c4c240" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   #shield { fill: url(#shield); stroke: none; stroke-linejoin: round; }
+   #contour { fill: none; stroke: #cfc822; stroke-width: 12; stroke-linejoin: round; }
+   ]]>
+  </style>
  </defs>
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  #shield { fill: url(#shield); stroke: none; stroke-linejoin: round; }
-  #contour { fill: none; stroke: #cfc822; stroke-width: 12; stroke-linejoin: round; }
-  ]]>
- </style>
  <path id="shield" d="M 114,10 v 16 l -64,12 -16,-8 -12,0 0,12 8,16 0,80 a 112 112, 0, 0, 0, 102,116 a 112 112, 0, 0, 0, 102,-116 l 0,-80 8,-16 0,-12 -12,0 -16,8 -64,-12 v -16 z" />
  <path id="contour" d="M 114,10 v 16 l -64,12 -16,-8 -12,0 0,12 8,16 0,80 a 112 112, 0, 0, 0, 102,116 a 112 112, 0, 0, 0, 102,-116 l 0,-80 8,-16 0,-12 -12,0 -16,8 -64,-12 v -16 z" />
 </svg>

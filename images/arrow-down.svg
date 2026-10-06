@@ -9,13 +9,13 @@
    <stop offset="0%" stop-color="#a5d49c" />
    <stop offset="100%" stop-color="#79bd73" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   #arrow { fill: url(#plate); stroke: url(#frame); stroke-width: 12; stroke-linejoin: round; }
+   ]]>
+  </style>
  </defs>
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  #arrow { fill: url(#plate); stroke: url(#frame); stroke-width: 12; stroke-linejoin: round; }
-  ]]>
- </style>
  <g>
   <path id="arrow" d="M104,20 h56 v164 h32 l-60,60 -60,-60 h32 z" />
  </g>

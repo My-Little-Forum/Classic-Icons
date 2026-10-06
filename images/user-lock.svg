@@ -47,23 +47,23 @@
    <stop offset="72.5%" stop-color="#efe154" />
    <stop offset="100%" stop-color="#efe258" />
   </linearGradient>
+  <style type="text/css">
+   <![CDATA[
+   svg { fill: transparent; }
+   #torso { fill: url(#shirt); stroke: url(#shirt-contour); stroke-width: 12; stroke-linejoin: round; }
+   #hand-left { fill: url(#hand-l); stroke: none; stroke-width: 1; }
+   #hand-right { fill: url(#hand-r); stroke: none; stroke-width: 1; }
+   .hand-contour { fill: #d28331; stroke: none; stroke-width: 1; }
+   #face { fill: url(#face-skin); stroke: url(#face-contour); stroke-width: 8; stroke-linejoin: round; }
+   #hair { fill: url(#hairdo); stroke: url(#hairdo); stroke-width: 1; stroke-linejoin: round; }
+   #lock-border { fill: none; stroke: #9f8640; stroke-width: 12; stroke-linejoin: round; }
+   #lock-body { fill: url(#lockbody); stroke: #fff8af; stroke-width: 12; }
+   #shackle { fill: #8fafb8; stroke-width: 4; stroke: #4f6c7a; }
+   #key-hole { fill: #9f8640; stroke-width: 1; stroke: #9f8640; }
+   #beads { fill: none; stroke-width: 8; stroke: #9f8640; stroke-linecap: round; }
+   ]]>
+  </style>
  </defs>
- <style type="text/css">
-  <![CDATA[
-  svg { fill: transparent; }
-  #torso { fill: url(#shirt); stroke: url(#shirt-contour); stroke-width: 12; stroke-linejoin: round; }
-  #hand-left { fill: url(#hand-l); stroke: none; stroke-width: 1; }
-  #hand-right { fill: url(#hand-r); stroke: none; stroke-width: 1; }
-  .hand-contour { fill: #d28331; stroke: none; stroke-width: 1; }
-  #face { fill: url(#face-skin); stroke: url(#face-contour); stroke-width: 8; stroke-linejoin: round; }
-  #hair { fill: url(#hairdo); stroke: url(#hairdo); stroke-width: 1; stroke-linejoin: round; }
-  #lock-border { fill: none; stroke: #9f8640; stroke-width: 12; stroke-linejoin: round; }
-  #lock-body { fill: url(#lockbody); stroke: #fff8af; stroke-width: 12; }
-  #shackle { fill: #8fafb8; stroke-width: 4; stroke: #4f6c7a; }
-  #key-hole { fill: #9f8640; stroke-width: 1; stroke: #9f8640; }
-  #beads { fill: none; stroke-width: 8; stroke: #9f8640; stroke-linecap: round; }
-  ]]>
- </style>
  <g>
   <path id="torso" d="M 80,254 a 120 120, 0, 0, 0 -52,-44 v -24 a 120 120, 0, 0, 1 52,-52 h 104 a 120 120, 0, 0, 1 52,52 v 24 a 120 120, 0, 0, 0 -52,44 z" />
   <path id="face" d="M 104,142 a 46 46, 0, 0, 1, -36,-36 v -60 h 132 v 60 a 46 46, 0, 0, 1, -36,36 z" />
