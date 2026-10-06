@@ -13,7 +13,6 @@
   </linearGradient>
   <style type="text/css">
    <![CDATA[
-   svg { fill: transparent; }
    #cross { fill: url(#cyl); stroke-width: 12; stroke: url(#contour); stroke-linecap: round; }
    ]]>
   </style>

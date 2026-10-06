@@ -9,7 +9,6 @@
   </symbol>
   <style type="text/css">
    <![CDATA[
-   svg { fill: transparent; }
    #quotesign { fill: #808080; stroke: #808080; stroke-width: 12; stroke-linejoin: round; }
    ]]>
   </style>

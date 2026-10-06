@@ -3,7 +3,6 @@
  <defs>
   <style type="text/css">
    <![CDATA[
-   svg { fill: transparent; }
    #roof { fill: none; stroke: #224; stroke-width: 20; stroke-linejoin: round; stroke-linecap: round; }
    #housesurface { fill: #ebebf4; stroke: none; }
    #housecontour { fill: none; stroke: #334; stroke-width: 16; stroke-linejoin: round; stroke-linecap: round; }

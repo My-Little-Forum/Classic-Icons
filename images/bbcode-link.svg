@@ -7,7 +7,6 @@
   </linearGradient>
   <style type="text/css">
    <![CDATA[
-   svg { fill: transparent; }
    .chain-link { fill: url(#head); stroke: none; }
    .contour { fill: #4f6c7a; stroke: none; stroke-width: 0; }
    ]]>

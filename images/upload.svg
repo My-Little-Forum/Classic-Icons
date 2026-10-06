@@ -23,7 +23,6 @@
   </linearGradient>
   <style type="text/css">
    <![CDATA[
-   svg { fill: transparent; }
    #arrow { fill: url(#plate); stroke: url(#frame); stroke-width: 12; stroke-linejoin: round; }
    #cloud-contour { fill: none; stroke: url(#c-contour); stroke-width: 12; stroke-linejoin: round; stroke-linecap: round; }
    #cloud-surface { fill: url(#c-surface); stroke: none; }

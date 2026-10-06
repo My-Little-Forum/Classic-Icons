@@ -7,7 +7,6 @@
   </linearGradient>
   <style type="text/css">
    <![CDATA[
-   svg { fill: transparent; }
    .quarter { stroke-width: 8; fill: none; stroke-linejoin: round; }
    #f1 { fill: #e00; stroke: #e00; }
    #f2 { fill: #ee0; stroke: #ee0; }

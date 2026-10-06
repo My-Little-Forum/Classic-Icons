@@ -11,7 +11,6 @@
   </linearGradient>
   <style type="text/css">
    <![CDATA[
-   svg { fill: transparent; }
    #container { fill: #fff; stroke-width: 24; stroke: #bbb; stroke-linejoin: round; }
    #lines { fill: none; stroke-width: 16; stroke: #222; stroke-linecap: round; }
    #pinhead { fill: #d81f10; stroke: none; }

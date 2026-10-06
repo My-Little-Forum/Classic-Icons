@@ -18,7 +18,6 @@
   </linearGradient>
   <style type="text/css">
    <![CDATA[
-   svg { fill: transparent; }
    #bookmark { fill: url(#plate); stroke: #739ac3; stroke-width: 12px; stroke-linejoin: round; }
    #contour { fill: none; stroke: #9f8640; stroke-width: 8; stroke-linejoin: round; stroke-linecap: round; }
    #pen { fill: url(#shaft); stroke: none; }

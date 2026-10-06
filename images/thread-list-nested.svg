@@ -8,8 +8,7 @@
   </linearGradient>
   <style type="text/css">
    <![CDATA[
-   svg { fill: transparent; }
- 	#postings { stroke: #808080; stroke-width: 30; fill: none; stroke-linecap: round; }
+   #postings { stroke: #808080; stroke-width: 30; fill: none; stroke-linecap: round; }
    ]]>
   </style>
  </defs>

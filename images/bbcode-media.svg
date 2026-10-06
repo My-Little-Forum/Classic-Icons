@@ -11,7 +11,6 @@
   </linearGradient>
   <style type="text/css">
    <![CDATA[
-   svg { fill: transparent; }
    .photo { fill: url(#photo); stroke: none; stroke-width: 1; stroke-linejoin: round; }
    #film { fill: #283048;  stroke: none; }
    .note { fill: #d22; stroke: #d22; stroke-width: 3; stroke-linejoin: round; }

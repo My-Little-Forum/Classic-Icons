@@ -15,7 +15,6 @@
   </linearGradient>
   <style type="text/css">
    <![CDATA[
-   svg { fill: transparent; }
    rect { stroke: none; fill: url(#plate); }
    g circle { stroke: none; fill: #fff; }
    path { fill: none; stroke-width: 34.5; stroke: #fff; stroke-linecap: round; }

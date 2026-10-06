@@ -19,7 +19,6 @@
   </linearGradient>
   <style type="text/css">
    <![CDATA[
-   svg { fill: transparent; }
    .arrow-bottom, .arrow-top { stroke-width: 12; stroke-linejoin: round; }
    .arrow-bottom { fill: url(#plate-bottom); stroke: url(#frame-bottom); }
    .arrow-top { fill: url(#plate-top); stroke: url(#frame-top); }

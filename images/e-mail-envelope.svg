@@ -13,7 +13,6 @@
   </linearGradient>
   <style type="text/css">
    <![CDATA[
-   svg { fill: transparent; }
    #envelope { fill: url(#sheet); stroke-width: 12; stroke: #a8adb6; stroke-linejoin: round; }
    #folds { fill: none; stroke-width: 8; stroke: #a8adb6b2; stroke-linejoin: round; }
    #envelope-flap { fill: url(#flap); stroke-width: 8; stroke: #a8adb6; stroke-linejoin: round; }

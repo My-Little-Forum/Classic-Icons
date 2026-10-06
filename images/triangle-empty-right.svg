@@ -3,7 +3,6 @@
  <defs>
   <style type="text/css">
    <![CDATA[
-   svg { background: transparent; }
    path { fill: none; stroke-width: 24; stroke: #a8afbb; stroke-linejoin: round; }
    ]]>
   </style>

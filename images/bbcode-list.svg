@@ -7,7 +7,6 @@
   </symbol>
   <style type="text/css">
    <![CDATA[
-   svg { fill: transparent; }
    #listitem .dot { fill: #808080; stroke: none; }
    #listitem .item { fill: none; stroke: #808080; stroke-width: 25; stroke-linecap: round; }
    ]]>

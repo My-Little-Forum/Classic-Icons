@@ -12,7 +12,6 @@
   </linearGradient>
   <style type="text/css">
    <![CDATA[
-   svg { fill: transparent; }
    #bookmark { fill: url(#plate); stroke: #739ac3; stroke-width: 12px; stroke-linejoin: round; }
    #shield { fill: url(#head); stroke: #f85450; stroke-width: 12; }
    #border { fill: none; stroke: #cf2c00; stroke-width: 12; }

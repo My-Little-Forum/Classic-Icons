@@ -8,7 +8,6 @@
   </linearGradient>
   <style type="text/css">
    <![CDATA[
-   svg { fill: transparent; }
    circle.connector { fill: #739ac3; stroke: none;}
    path.connector { fill: none; stroke: #739ac3; stroke-width: 12; stroke-linejoin: round; stroke-linecap: round; }
    #category rect { fill: url(#plate); stroke: #739ac3; stroke-width: 12;

@@ -11,7 +11,6 @@
   </linearGradient>
   <style type="text/css">
    <![CDATA[
-   svg { fill: transparent; }
    #face { fill: url(#plate); stroke: #fffeb8; stroke-width: 12; }
    #contour { fill: none; stroke: #c8c220; stroke-width: 12; }
    .eyes { fill: #aca002; stroke: none; }

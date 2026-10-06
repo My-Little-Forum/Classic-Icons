@@ -11,7 +11,6 @@
   </linearGradient>
   <style type="text/css">
    <![CDATA[
-   svg { fill: transparent; }
    #lock-border { fill: none; stroke: #9f8640; stroke-width: 12; stroke-linejoin: round; }
    #lock-body { fill: url(#lockbody); stroke: #fff8af; stroke-width: 12; }
    #shackle { fill: #8fafb8; stroke-width: 4; stroke: #4f6c7a; }
